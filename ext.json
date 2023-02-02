@@ -1,0 +1,6 @@
+{
+  "id": "vscode-sample.helloworld-sample",
+  "displayName": "helloworld-sample",
+  "name": "helloworld-sample",
+  "download": "https://github.com/molmar/Vscodetest/raw/main/helloworld-sample-0.0.1.vsix"
+}
